@@ -2,6 +2,8 @@
 
 This repository contains training code for the examples in the SIGGRAPH Asia 2020 paper "[Layered Neural Rendering for Retiming People in Video](https://retiming.github.io/)."
 
+<img src='./img/teaser.gif' height="160px"/>
+
 This is not an officially supported Google product.
 
 
